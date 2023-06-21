@@ -104,4 +104,4 @@ puts loves_to_play || loves_dog_park
 # Determine if the dog loves to play and is a puppy
 puts loves_to_play && age = 1
 # What did your final line of code evaluate to? Why do you think that is? Explain.
-# ANSWER:
+# ANSWER: My answer evaluated to "1". I think that is because a boolean and an integer is mixed together and that will cause the integer to print.
